@@ -1,0 +1,25 @@
+<?php
+return  [
+    'home'=>'Home',
+    'posts'=>'Posts',
+    'all_posts'=>'All Posts',
+    'add_post'=>'Add New Post',
+    'show_post'=>'Show Post',
+    'show_comments'=>'Show Comments',
+    'title'=>'Title',
+    'body'=>'Body',
+    'category'=>'Category',
+    'admin'=>'Admin',
+    'title_en'=>'Type the address',
+    'body_en'=>'Type the Body',
+    'select'=>'Select Category',
+    'image'=>'Choose Image',
+    'edit'=>'Edit Post',
+    'store'=>'Store Post Successfully',
+    'update'=>'Update Post Successfully',
+    'delete'=>'Delete Post Successfully',
+    'approved_status'=>'Approved Successfully',
+    'rejected_status'=>'Rejected Successfully',
+    'index'=>'index',
+
+];

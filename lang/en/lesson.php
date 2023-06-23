@@ -1,0 +1,36 @@
+<?php
+return [
+    'home' => 'Home',
+    'lessons' => 'Lessons',
+    'all_lessons' => 'All Lessons',
+    'create' => 'Create Lesson',
+    'not_found' => 'Data Not Found',
+    'title' => 'Lesson Title',
+    'edit' => 'Edit Lesson',
+    'delete' => 'Delete Lesson',
+    'add' => 'Add New Lesson',
+    'lesson' => 'Lesson',
+    'time' => 'Time',
+    'type' => 'Type',
+    'body' => 'Body',
+    'text' => 'Text',
+    'file' => 'File',
+    'video' => 'Video',
+    'course' => 'Course',
+    'update' => 'Update',
+    'remove' => 'Deleted successfully',
+    'title_en' => 'Lesson English',
+    'title_ar' => 'Lesson Arabic',
+    'title_fr' => 'Lesson French',
+    'title_es' => 'Lesson Spanish',
+    'title_kam' => 'Lesson Kamba',
+    'title_sw' => 'Lesson Swahili',
+    'text_en' => 'Text English',
+    'text_ar' => 'Text Arabic',
+    'text_fr' => 'Text French',
+    'text_es' => 'Text Spanish',
+    'text_kam' => 'Text Kamba',
+
+
+
+];
